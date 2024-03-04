@@ -11,3 +11,5 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 - [The 8 Best Pomodoro Timer Apps to Enhance Your Productivity](https://blog.productivity.directory/the-8-best-pomodoro-timer-apps-to-enhance-your-productivity-b0f66043a534)
 
 ## Productivity Hacks
+
+- [Digital Distraction Blocking: Tips and Tricks for Enhanced Productivity](https://blog.productivity.directory/digital-distraction-blocking-tips-and-tricks-for-enhanced-productivity-8b94fe45ad23)
