@@ -5,6 +5,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 
 ## Productivity App Reviews
 
+- [Mastering Productivity with Apple’s iWork Suite](https://blog.productivity.directory/mastering-productivity-with-apples-iwork-suite-0ed67e7d7bd5)
 - [Top 4 Open Source Alternatives to Zapier](https://blog.productivity.directory/top-4-open-source-alternatives-to-zapier-3cedea6042cb)
 - [Top Free Payroll Trackers to Boost Your Business Productivity](https://medium.com/@stan8086/top-free-payroll-trackers-to-boost-your-business-productivity-d8fb048f3c56)
 - [Discover the Top 20 Productivity Blogs of 2024](https://blog.productivity.directory/elevate-your-efficiency-discover-the-top-20-productivity-blogs-of-2024-3f238e75e52b)
