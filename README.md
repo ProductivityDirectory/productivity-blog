@@ -5,6 +5,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 
 ## Productivity App Reviews
 
+- [Introducing Zapier Central: Work Hand in Hand with AI Bots](https://blog.productivity.directory/introducing-zapier-central-work-hand-in-hand-with-ai-bots-0d46ec8b2b6d)
 - [Mastering Productivity with Apple’s iWork Suite](https://blog.productivity.directory/mastering-productivity-with-apples-iwork-suite-0ed67e7d7bd5)
 - [Top 4 Open Source Alternatives to Zapier](https://blog.productivity.directory/top-4-open-source-alternatives-to-zapier-3cedea6042cb)
 - [Top Free Payroll Trackers to Boost Your Business Productivity](https://medium.com/@stan8086/top-free-payroll-trackers-to-boost-your-business-productivity-d8fb048f3c56)
