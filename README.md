@@ -5,6 +5,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 
 ## Productivity App Reviews
 
+- [A Deep Dive Into Cal Newport Books](https://blog.productivity.directory/a-deep-dive-into-cal-newports-books-7238a70c8f7c)
 - [Remember the Milk Review 2024: Old But Gold](https://blog.productivity.directory/remember-the-milk-review-2024-old-but-gold-67986c201f38)
 - [Introducing Zapier Central: Work Hand in Hand with AI Bots](https://blog.productivity.directory/introducing-zapier-central-work-hand-in-hand-with-ai-bots-0d46ec8b2b6d)
 - [Mastering Productivity with Apple’s iWork Suite](https://blog.productivity.directory/mastering-productivity-with-apples-iwork-suite-0ed67e7d7bd5)
