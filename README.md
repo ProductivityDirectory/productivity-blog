@@ -5,6 +5,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 
 ## Productivity App Reviews
 
+- [Top 5 Distraction Blocker Apps for Mac](https://blog.productivity.directory/top-5-distraction-blocker-apps-for-mac-a00614bc6268)
 - [Top 6 Distraction Blocker Apps for Android](https://blog.productivity.directory/top-6-distraction-blocker-apps-for-android-5a838618e155)
 - [A Deep Dive Into Cal Newport Books](https://blog.productivity.directory/a-deep-dive-into-cal-newports-books-7238a70c8f7c)
 - [Remember the Milk Review 2024: Old But Gold](https://blog.productivity.directory/remember-the-milk-review-2024-old-but-gold-67986c201f38)
