@@ -5,6 +5,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 
 ## Productivity App Reviews
 
+- [Make vs. Zapier: Which One is Better in 2024?](https://blog.productivity.directory/make-vs-zapier-which-one-is-better-in-2024-c0f016c6f76b)
 - [Top 5 Distraction Blocker Apps for Mac](https://blog.productivity.directory/top-5-distraction-blocker-apps-for-mac-a00614bc6268)
 - [Top 6 Distraction Blocker Apps for Android](https://blog.productivity.directory/top-6-distraction-blocker-apps-for-android-5a838618e155)
 - [A Deep Dive Into Cal Newport Books](https://blog.productivity.directory/a-deep-dive-into-cal-newports-books-7238a70c8f7c)
