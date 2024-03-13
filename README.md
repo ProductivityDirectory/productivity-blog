@@ -2,6 +2,7 @@
 
 Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 
+[Write a Guest Post for The Productivity Blog!](https://blog.productivity.directory/write-a-guest-post-for-the-productivity-blog-95a29fcd1c4b)
 
 ## Productivity App Reviews
 
