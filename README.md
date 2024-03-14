@@ -6,6 +6,8 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 
 ## Productivity App Reviews
 
+
+- [Choosing Typora Over Notion for Focused Writing](https://blog.productivity.directory/choosing-typora-over-notion-for-focused-writing-b03bf406996a)
 - [Slack vs Teams: Which Tool to Choose in 2024](https://blog.productivity.directory/slack-vs-teams-which-tool-to-choose-in-2024-24443c8d25d5)
 - [Make vs. Zapier: Which One is Better in 2024?](https://blog.productivity.directory/make-vs-zapier-which-one-is-better-in-2024-c0f016c6f76b)
 - [Top 5 Distraction Blocker Apps for Mac](https://blog.productivity.directory/top-5-distraction-blocker-apps-for-mac-a00614bc6268)
