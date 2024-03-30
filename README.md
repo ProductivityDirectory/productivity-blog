@@ -6,6 +6,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 
 ## Productivity App Reviews
 
+- [Automate Your Workflow With AI](https://blog.productivity.directory/automate-your-workflow-with-ai-580427be54c8)
 - [From Chaos to Order: A Journey to Productivity](https://blog.productivity.directory/from-chaos-to-order-a-journey-to-productivity-e62782d7a4ea)
 - [Slack vs. Discord in the Modern Workplace](https://blog.productivity.directory/slack-vs-discord-in-the-modern-workplace-5970e67afa2b)
 - [Joplin App Review: More Than Just a Markdown Note-Taking App](https://blog.productivity.directory/joplin-app-review-more-than-just-a-markdown-note-taking-app-536462f42680)
