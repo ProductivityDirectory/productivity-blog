@@ -5,7 +5,8 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 [Write a Guest Post for The Productivity Blog!](https://blog.productivity.directory/write-a-guest-post-for-the-productivity-blog-95a29fcd1c4b)
 
 ## Productivity App Reviews
-
+- [Arc Browser Review: Navigating Innovation and Efficiency](https://blog.productivity.directory/arc-browser-review-navigating-innovation-and-efficiency-34a408147a01)
+  - [Arc Browser](https://productivity.directory/arc-browser)
 - [Automate Your Workflow With AI](https://blog.productivity.directory/automate-your-workflow-with-ai-580427be54c8)
 - [From Chaos to Order: A Journey to Productivity](https://blog.productivity.directory/from-chaos-to-order-a-journey-to-productivity-e62782d7a4ea)
 - [Slack vs. Discord in the Modern Workplace](https://blog.productivity.directory/slack-vs-discord-in-the-modern-workplace-5970e67afa2b)
