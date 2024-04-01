@@ -35,6 +35,11 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 - [What is Workflow Automation? - The Essence and Evolution of Workflow Automation](https://blog.productivity.directory/what-is-workflow-automation-1fe8fa117297)
 - [Digital Distraction Blocking: Tips and Tricks for Enhanced Productivity](https://blog.productivity.directory/digital-distraction-blocking-tips-and-tricks-for-enhanced-productivity-8b94fe45ad23)
 
+# Productivity Directory Reports
+
+- [Productivity Directory: First Two-Month Report](https://blog.productivity.directory/productivity-directory-first-two-month-report-8897d5c4bbaf)
+
+
 ## Extra Links
 
 - [Productivity Dir on Bio.link](https://bio.link/productivitydir)
