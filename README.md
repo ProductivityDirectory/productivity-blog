@@ -40,9 +40,9 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 # Productivity Directory Reports
 
 - [Productivity Directory: First Two-Month Report](https://blog.productivity.directory/productivity-directory-first-two-month-report-8897d5c4bbaf)
-- [Productivity Bettermode](https://productivity.bettermode.io/)
 
 
 ## Extra Links
 
 - [Productivity Dir on Bio.link](https://bio.link/productivitydir)
+- [Productivity Bettermode](https://productivity.bettermode.io/)
