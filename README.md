@@ -6,6 +6,9 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 
 ## Productivity App Reviews
 
+- [HEY.com Review: A Game-Changer or A Gimmick?](https://blog.productivity.directory/hey-com-review-a-game-changer-or-a-gimmick-0802fdd4c06d)
+  - [Hey Email](https://productivity.directory/hey-email)
+  - [Hey Calendar](https://productivity.directory/hey-calendar)
 - [Nike+ Running Club (NRC) App Review 2024](https://blog.productivity.directory/nike-running-club-nrc-app-review-2024-73bb899b2006)
 - [Arc Browser Review: Navigating Innovation and Efficiency](https://blog.productivity.directory/arc-browser-review-navigating-innovation-and-efficiency-34a408147a01)
   - [Arc Browser](https://productivity.directory/arc-browser)
