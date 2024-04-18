@@ -6,6 +6,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 
 ## Productivity App Reviews
 
+- [Top 12 Mind Mapping Apps for Enhanced Productivity](https://blog.productivity.directory/top-12-mind-mapping-solutions-for-enhanced-productivity-f6585215f90f)
 - [HEY.com Review: A Game-Changer or A Gimmick?](https://blog.productivity.directory/hey-com-review-a-game-changer-or-a-gimmick-0802fdd4c06d)
   - [Hey Email](https://productivity.directory/hey-email)
   - [Hey Calendar](https://productivity.directory/hey-calendar)
