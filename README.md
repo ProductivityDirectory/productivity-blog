@@ -6,6 +6,8 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 
 ## Productivity App Reviews
 
+- [How to Use Todoist to Supercharge Your Productivity](https://blog.productivity.directory/how-to-use-todoist-to-supercharge-your-productivity-9ae7ce5228ff)
+  - [Todoist's Review](https://productivity.directory/todoist)
 - [Top 12 Mind Mapping Apps for Enhanced Productivity](https://blog.productivity.directory/top-12-mind-mapping-solutions-for-enhanced-productivity-f6585215f90f)
   - [MindMeister's Review](https://productivity.directory/mindmeister)
   - [XMind's Review](https://productivity.directory/xmind)
