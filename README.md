@@ -75,7 +75,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  an
 
 ## Productivityist
 
-- [The Power of the Pomodoro Technique](https://medium.com/productivitytips/the-power-of-the-pomodoro-technique-55580a9e20cc)
+- [The Power of the Pomodoro Technique](https://productivity.ist/the-power-of-the-pomodoro-technique-55580a9e20cc)
 - [6 Tips For The Best Morning Routine](https://productivity.ist/6-tips-for-the-best-morning-routine-ad68b711233f)
 
 
