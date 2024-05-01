@@ -1,6 +1,6 @@
 # The Productivity Blog
 
-Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
+Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  and [Productivityist](https://productivity.ist) To Introduce lots of [Productivity Tools](https://productivity.directory/)
 
 [Write a Guest Post for The Productivity Blog!](https://blog.productivity.directory/write-a-guest-post-for-the-productivity-blog-95a29fcd1c4b)
 
