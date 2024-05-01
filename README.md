@@ -5,6 +5,16 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)
 [Write a Guest Post for The Productivity Blog!](https://blog.productivity.directory/write-a-guest-post-for-the-productivity-blog-95a29fcd1c4b)
 
 ## Productivity App Reviews
+
+- [The Best Productivity Tools](https://blog.productivity.directory/the-best-productivity-tools-54d57a2cfb5c)
+  - [To-Do List Apps](https://productivity.directory/category/to-do-lists)
+    - [Todoist](https://productivity.directory/todoist)
+    - [Microsoft To Do ](https://productivity.directory/microsoft-to-do)
+    - [Superlist](https://productivity.directory/superlist)
+  - [Calendar Apps](https://productivity.directory/category/calendar-apps)
+    - [Google Calendar](https://productivity.directory/google-calendar)
+    - [Calendly](https://productivity.directory/calendly)
+    - [Fantastical](https://productivity.directory/fantastical)
 - [Top Community Platforms: Essential Tools for Digital Engagement](https://blog.productivity.directory/top-community-platforms-essential-tools-for-digital-engagement-46606f84502f)
 - [How to Use Todoist to Supercharge Your Productivity](https://blog.productivity.directory/how-to-use-todoist-to-supercharge-your-productivity-9ae7ce5228ff)
   - [Todoist's Review](https://productivity.directory/todoist)
