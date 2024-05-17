@@ -74,10 +74,15 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  an
 - [What is Workflow Automation? - The Essence and Evolution of Workflow Automation](https://blog.productivity.directory/what-is-workflow-automation-1fe8fa117297)
 - [Digital Distraction Blocking: Tips and Tricks for Enhanced Productivity](https://blog.productivity.directory/digital-distraction-blocking-tips-and-tricks-for-enhanced-productivity-8b94fe45ad23)
 
-## Productivityist
+## Productivity.ist
 
 - [The Power of the Pomodoro Technique](https://productivity.ist/the-power-of-the-pomodoro-technique-55580a9e20cc)
 - [6 Tips For The Best Morning Routine](https://productivity.ist/6-tips-for-the-best-morning-routine-ad68b711233f)
+
+
+## Productivity Books
+
+- [Book Summary: 12 Rules for Life by Jordan B. Peterson](https://blog.productivity.directory/book-summary-12-rules-for-life-by-jordan-b-peterson-7e915a41e66f)
 
 
 ## Productivity Directory Reports
