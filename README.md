@@ -6,6 +6,14 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  an
 
 ## Productivity App Reviews
 
+- [The Best Project Management Software](https://blog.productivity.directory/the-best-project-management-software-56cc89b0734f)
+  - [Trello](https://productivity.directory/trello)
+  - [Zoho Projects](https://productivity.directory/zoho-projects)
+  - [Asana](https://productivity.directory/asana)
+  - [Smartsheet](https://productivity.directory/smartsheet)
+  - [Wrike](https://productivity.directory/wrike)
+  - [ClickUp](https://productivity.directory/clickup)
+  - [Microsoft Project](https://productivity.directory/microsoft-project)
 - [The Best Productivity Tools](https://blog.productivity.directory/the-best-productivity-tools-54d57a2cfb5c)
   - [To-Do List Apps](https://productivity.directory/category/to-do-lists)
     - [Todoist](https://productivity.directory/todoist)
