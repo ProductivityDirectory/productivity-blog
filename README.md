@@ -6,6 +6,15 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  an
 
 ## Productivity App Reviews
 
+- [Best Productivity Tools for Small Teams of 2024](https://blog.productivity.directory/best-productivity-tools-for-small-teams-1add7b5ab28f)
+  - [Asana](https://productivity.directory/asana)
+  - [Slack](https://productivity.directory/slack)
+  - [Trello](https://productivity.directory/trello)
+  - [Zoom](https://productivity.directory/zoom)
+  - [Google Workspace](https://productivity.directory/google-workspace)
+  - [Notion](https://productivity.directory/notion)
+  - [LastPass](https://productivity.directory/lastpass)
+  - [Airtable](https://productivity.directory/airtable)
 - [The Best Project Management Software](https://blog.productivity.directory/the-best-project-management-software-56cc89b0734f)
   - [Trello](https://productivity.directory/trello)
   - [Zoho Projects](https://productivity.directory/zoho-projects)
