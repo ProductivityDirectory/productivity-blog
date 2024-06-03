@@ -6,6 +6,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  an
 
 ## Productivity App Reviews
 
+- [The Best Habit Tracking Apps on iPhone](https://blog.productivity.directory/the-best-habit-tracking-apps-on-iphone-397414e89a57)
 - [Things 3 Review: A Premier Task Management Tool](https://blog.productivity.directory/things-3-review-a-premier-task-management-tool-27654c0f2875)
   - [Things 3](https://productivity.directory/things-3)
 - [Best Productivity Tools for Small Teams of 2024](https://blog.productivity.directory/best-productivity-tools-for-small-teams-1add7b5ab28f)
