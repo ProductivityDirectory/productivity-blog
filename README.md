@@ -6,6 +6,12 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  an
 
 ## Productivity App Reviews
 
+- [The Best Video Conferencing Software For Teams of 2024](https://blog.productivity.directory/the-best-video-conferencing-software-for-teams-8f3c501b7348)
+  - [Zoom](https://productivity.directory/zoom)
+  - [Google Meet](https://productivity.directory/google-meet)
+  - [Microsoft Teams](https://productivity.directory/microsoft-teams)
+  - [Webex Meetings](https://productivity.directory/webex-meetings)
+  - [Jitsi](https://productivity.directory/jitsi) 
 - [The Best Habit Tracking Apps on iPhone](https://blog.productivity.directory/the-best-habit-tracking-apps-on-iphone-397414e89a57)
 - [Things 3 Review: A Premier Task Management Tool](https://blog.productivity.directory/things-3-review-a-premier-task-management-tool-27654c0f2875)
   - [Things 3](https://productivity.directory/things-3)
