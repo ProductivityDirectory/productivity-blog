@@ -6,6 +6,9 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  an
 
 ## Productivity App Reviews
 
+- [The Best Accounting Software for Small Businesses in 2024](https://blog.productivity.directory/the-best-accounting-software-for-small-businesses-0504118670dd)
+  - [Zoho Books](https://productivity.directory/zoho-books)
+  - [QuickBooks](https://productivity.directory/quickbooks)
 - [The Best Video Conferencing Software For Teams of 2024](https://blog.productivity.directory/the-best-video-conferencing-software-for-teams-8f3c501b7348)
   - [Zoom](https://productivity.directory/zoom)
   - [Google Meet](https://productivity.directory/google-meet)
