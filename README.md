@@ -6,6 +6,17 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  an
 
 ## Productivity App Reviews
 
+- [The Best Notion Alternatives in 2024](https://blog.productivity.directory/the-best-notion-alternatives-7264e1b082d4)
+  - [Notion](https://productivity.directory/notion)
+  - [Taskade](https://productivity.directory/taskade)
+  - [Coda](https://productivity.directory/coda)
+  - [Mem](https://productivity.directory/mem)
+  - [Microsoft Loop](https://productivity.directory/microsoft-loop)
+  - [Slite](https://productivity.directory/slite)
+  - [Almanac](https://productivity.directory/almanac)
+  - [Anytype](https://productivity.directory/anytype)
+  - [Scrintal](https://productivity.directory/scrintal)
+  - [Obsidian](https://productivity.directory/Obsidian)
 - [The Best Accounting Software for Small Businesses in 2024](https://blog.productivity.directory/the-best-accounting-software-for-small-businesses-0504118670dd)
   - [Zoho Books](https://productivity.directory/zoho-books)
   - [QuickBooks](https://productivity.directory/quickbooks)
