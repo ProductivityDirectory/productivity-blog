@@ -6,6 +6,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  an
 
 ## Productivity App Reviews
 
+- [The Best Generative AI Tools](https://blog.productivity.directory/the-best-generative-ai-tools-5bb0b940a857)
 - [The Best Notion Alternatives in 2024](https://blog.productivity.directory/the-best-notion-alternatives-7264e1b082d4)
   - [Notion](https://productivity.directory/notion)
   - [Taskade](https://productivity.directory/taskade)
