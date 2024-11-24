@@ -130,6 +130,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  an
 
 ## Productivity Books
 
+- [12 Must-Read Productivity Books to Transform Your Efficiency in 2025](https://blog.productivity.directory/12-must-read-productivity-books-to-transform-your-efficiency-in-2025-c22a7255f7d8)
 - [Book Summary: 12 Rules for Life by Jordan B. Peterson](https://blog.productivity.directory/book-summary-12-rules-for-life-by-jordan-b-peterson-7e915a41e66f)
 
 
