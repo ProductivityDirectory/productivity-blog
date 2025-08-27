@@ -112,6 +112,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  an
 
 - [Top Productivity Newsletters to Boost Your Efficiency](https://blog.productivity.directory/top-productivity-newsletters-to-boost-your-efficiency-40a777dc8892)
 - [Managing Your To-Do List Effectively: Strategies for Effective Task Management](https://blog.productivity.directory/managing-your-to-do-list-effectively-strategies-for-effective-task-management-8919996c9b72)
+- [What is Agile Project Management?](https://blog.productivity.directory/what-is-agile-project-management-e5ed52db63c4)
 
 
 ## Productivity Hacks
