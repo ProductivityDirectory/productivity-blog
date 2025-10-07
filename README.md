@@ -107,6 +107,7 @@ Latest Posts of [The Productivity Blog](https://blog.productivity.directory)  an
 - [12 Best Reminder Apps & Tools](https://blog.productivity.directory/best-reminder-apps-tools-348279073052)
 - [The 8 Best Pomodoro Timer Apps to Enhance Your Productivity](https://blog.productivity.directory/the-8-best-pomodoro-timer-apps-to-enhance-your-productivity-b0f66043a534)
 - [Top Shared To-Do List Apps for Couples: Streamline Your Tasks Together](https://blog.productivity.directory/top-shared-to-do-list-apps-for-couples-streamline-your-tasks-together-726f09c5735c)
+- [Building Custom AI Agents with OpenAI’s Agent Builder](https://medium.com/productivitydirectory/building-custom-ai-agents-with-openais-agent-builder-27029f8c82b8)
 
 ## Productivity Guides
 
